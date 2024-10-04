@@ -56,5 +56,6 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
+url: "https://yushisg.github.io"
 plugins:
   - jekyll-sitemap
